@@ -1,0 +1,10 @@
+
+.ipros24-list table th	{
+	text-align: right;
+}
+
+.ipros24-list table td.left input	{
+	margin-left: 1px;
+	margin-right: -5px;
+}
+

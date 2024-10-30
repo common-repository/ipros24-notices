@@ -1,0 +1,104 @@
+
+.no-js .hide-if-no-js	{
+	display: none !important;
+}
+
+.js .hide-if-js	{
+	display: none;
+}
+
+.ipros24-notices	{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 100000;
+
+	color: #ccc;
+	background-color: #666;
+}
+
+.ipros24-notices.ipros24-bottom	{
+	top: auto;
+	bottom: 0;
+}
+
+.ipros24-notices > div	{
+	padding: 1em;
+	text-align: justify;
+}
+
+.ipros24-notices > .ipros24-nb	{
+	background-color: #855;
+}
+
+.ipros24-notices > div > h3	{
+	padding: 0 2em 1em 0;
+	margin: 0;
+
+	line-height: inherit;
+	font-size: inherit;
+
+	min-width: 6em;
+	color: #eee;
+
+	float: left;
+}
+
+.ipros24-notices > div > div	{
+	display: inline;
+}
+
+.ipros24-notices.ipros24-wpautop > div > div > p	{
+	margin: 0;
+}
+
+.ipros24-notices > div > div a	{
+	color: #eee;
+}
+
+.ipros24-notices .post-password-form,
+.ipros24-notices .post-password-form p	{
+	margin: 0;
+}
+
+.ipros24-notices label	{
+	color: #ccc;
+}
+
+.ipros24-notices input	{
+	color: #333;
+}
+
+.ipros24-notices input[type="submit"]	{
+	background-color: buttonface;
+}
+
+.ipros24-notices .ipros24-button	{
+	cursor: default;
+	color: #eee;
+}
+
+.ipros24-notices .ipros24-button:hover	{
+	color: #fff;
+}
+
+.ipros24-notices .ipros24-button:active	{
+	position: relative;
+	top: 1px;
+	left: 1px;
+}
+
+.ipros24-notices .ipros24-close	{
+	float: right;
+}
+
+.ipros24-notices .ipros24-close:after	{
+	font: normal 20px/1 dashicons;
+	content: "\f335";
+}
+
+.no-js .ipros24-notices .ipros24-close	{
+	display: none;
+}
+

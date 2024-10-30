@@ -1,0 +1,197 @@
+# Copyright (C) 2017-2020 A. Kirillov
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: iPROS24 Notices 1.7.2\n"
+"POT-Creation-Date: 2020-05-18 14:19:03+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: assets/php/utils.php:529
+msgid "Settings"
+msgstr "Настройки"
+
+#: ipros24-notices.php:172 ipros24-notices.php:173 ipros24-notices.php:202
+#: ipros24-notices.php:203
+msgid "Notices"
+msgstr "Уведомления"
+
+#: ipros24-notices.php:174
+msgid "Notice"
+msgstr "Уведомление"
+
+#: ipros24-notices.php:175
+msgid "All Notices"
+msgstr "Все уведомления"
+
+#: ipros24-notices.php:176
+msgid "Add New"
+msgstr "Добавить новое"
+
+#: ipros24-notices.php:177
+msgid "Add New Notice"
+msgstr "Добавить новое уведомление"
+
+#: ipros24-notices.php:178
+msgid "Edit"
+msgstr "Изменить"
+
+#: ipros24-notices.php:179
+msgid "Edit Notice"
+msgstr "Редактировать уведомление"
+
+#: ipros24-notices.php:180
+msgid "New Notice"
+msgstr "Новое уведомление"
+
+#: ipros24-notices.php:181 ipros24-notices.php:182
+msgid "View Notice"
+msgstr "Просмотреть уведомление"
+
+#: ipros24-notices.php:183
+msgid "Search Notices"
+msgstr "Поиск уведомлений"
+
+#: ipros24-notices.php:184
+msgid "No notices found"
+msgstr "Уведомлений не найдено."
+
+#: ipros24-notices.php:185
+msgid "No notices found in Trash"
+msgstr "Уведомлений в корзине не найдено."
+
+#. Plugin Name of the plugin/theme
+#: ipros24-notices.php:188
+msgid "iPROS24 Notices"
+msgstr "iPROS24 уведомления"
+
+#: ipros24-notices.php:214
+msgid "Notices settings"
+msgstr "Настройки уведомлений"
+
+#: ipros24-notices.php:246 ipros24-notices.php:618
+msgid "Delete"
+msgstr "Удалить"
+
+#: ipros24-notices.php:266
+msgid "Add"
+msgstr "Добавить"
+
+#: ipros24-notices.php:301
+msgid "Custom server-side conditions"
+msgstr "Дополнительные условия на стороне сервера"
+
+#: ipros24-notices.php:309 ipros24-notices.php:354
+msgid "Condition name"
+msgstr "Название условия"
+
+#: ipros24-notices.php:309
+msgid "WordPress filter"
+msgstr "Фильтр WordPress"
+
+#: ipros24-notices.php:317 ipros24-notices.php:362
+msgid "Condition names can only contain alphanumeric characters, spaces and underscores and start with a letter or underscore. Save the changes after editing."
+msgstr "Имена условий могут содержать только буквы, цифры, пробелы и подчёркивания и начинаться с буквы или подчёркивания. Сохраните изменения после редактирования."
+
+#: ipros24-notices.php:327
+msgid "Server-side script"
+msgstr "Сценарий на стороне сервера"
+
+#: ipros24-notices.php:346
+msgid "Custom client-side conditions"
+msgstr "Дополнительные условия на стороне клиента"
+
+#: ipros24-notices.php:354
+msgid "JavaScript variable"
+msgstr "Переменная JavaScript"
+
+#: ipros24-notices.php:372
+msgid "Client-side script"
+msgstr "Сценарий на стороне клиента"
+
+#: ipros24-notices.php:391
+msgid "Position"
+msgstr "Расположение"
+
+#: ipros24-notices.php:403
+msgid "Top"
+msgstr "Сверху"
+
+#: ipros24-notices.php:411
+msgid "Bottom"
+msgstr "Снизу"
+
+#: ipros24-notices.php:423 ipros24-notices.php:429
+msgid "Use database"
+msgstr "Использовать базу данных"
+
+#: ipros24-notices.php:436
+msgid "Store the list of viewed notices in user metadata"
+msgstr "Хранить список просмотренных уведомлений в метаданных пользователя"
+
+#: ipros24-notices.php:463
+msgid "Notice Attributes"
+msgstr "Свойства уведомления"
+
+#: ipros24-notices.php:489
+msgid "Important"
+msgstr "Важное"
+
+#: ipros24-notices.php:494
+msgid "Server-side conditions"
+msgstr "Условия на стороне сервера"
+
+#: ipros24-notices.php:506 ipros24-notices.php:524
+msgctxt "condition"
+msgid "True"
+msgstr "Истинно"
+
+#: ipros24-notices.php:507 ipros24-notices.php:525
+msgctxt "condition"
+msgid "False"
+msgstr "Ложно"
+
+#: ipros24-notices.php:512
+msgid "Client-side conditions"
+msgstr "Условия на стороне клиента"
+
+#: ipros24-notices.php:530
+msgid "Select additional conditions for displaying the notice"
+msgstr "Укажите дополнительные условия показа этого уведомления"
+
+#: ipros24-notices.php:619
+msgid "Invalid value."
+msgstr "Неверное значение."
+
+#. Plugin URI of the plugin/theme
+msgid "http://ipros24.ru/wordpress/#ipros24-notices"
+msgstr "http://ipros24.ru/wordpress/#ipros24-notices"
+
+#. Description of the plugin/theme
+msgid "iPROS24 advanced notices for WordPress."
+msgstr "iPROS24 расширенные уведомления для WordPress."
+
+#. Author of the plugin/theme
+msgid "A. Kirillov"
+msgstr "А. Кириллов"
+
+#. Author URI of the plugin/theme
+msgid "http://ipros24.ru/"
+msgstr "http://ipros24.ru/"
+
+msgid "User logged in"
+msgstr "Пользователь авторизован"
+
+msgid "Mobile device"
+msgstr "Мобильное устройство"
+
+msgid "Cookies enabled"
+msgstr "Куки включены"
+
+msgid "JavaScript enabled"
+msgstr "JavaScript включен"
+
+msgid "Browser supported"
+msgstr "Браузер поддерживается"
+

@@ -1,0 +1,80 @@
+
+strong, b	{
+	font-weight: bold;
+}
+
+.ipros24-ltr	{
+	direction: ltr;
+}
+
+.ipros24-attribute	{
+	margin: .5em 0;
+}
+
+.ipros24-attribute strong.label	{
+	display: inline-block;
+	width: 150px;
+	font-weight: normal;
+}
+
+.ipros24-list	{
+	margin: 2.4em 0;
+}
+
+.ipros24-list table	{
+	border-spacing: 0;
+}
+
+.ipros24-list table th	{
+	text-align: left;
+}
+
+.ipros24-list table th,
+.ipros24-list table td	{
+	padding: 5px 10px;
+}
+
+.ipros24-list table th.left,
+.ipros24-list table td.left	{
+	width: 190px;
+}
+
+.ipros24-list table th:nth-child(2),
+.ipros24-list table td:nth-child(2)	{
+	min-width: 70px;
+}
+
+.ipros24-list table td:nth-child(3)	{
+	font-size: smaller;
+	font-style: italic;
+}
+
+.ipros24-list table td.left input	{
+	margin-left: -5px;
+}
+
+.ipros24-list + h2	{
+	margin: .4em .4em;
+	font-size: 1.4em;
+}
+
+.ipros24-list + h2 + textarea	{
+	margin-bottom: 15px;
+	height: 64px;
+}
+
+tbody#ipros24-server-side-condition-list td:nth-child(3):before	{
+	content: "ipros24_notices_";
+}
+
+tbody#ipros24-client-side-condition-list td:nth-child(3):before	{
+	content: "ipros24_notices.";
+}
+
+@media screen and (max-width: 782px)	{
+
+	.ipros24-list + h2 + textarea	{
+		height: 72px;
+	}
+}
+
